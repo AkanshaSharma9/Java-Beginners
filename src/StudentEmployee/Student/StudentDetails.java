@@ -1,4 +1,4 @@
-package Presidency.Student;
+package StudentEmployee.Student;
 
 public class StudentDetails {
 	String name, id, branch;

@@ -6,7 +6,7 @@
  *Hint: You can assume the relevant fields and methods to be written inside the EmployeeDetails and StudentDetails class. 
  */
 
-package Presidency.Employee;
+package StudentEmployee.Employee;
 
 public class EmployeeDetails {
 	String name, empid, dept;

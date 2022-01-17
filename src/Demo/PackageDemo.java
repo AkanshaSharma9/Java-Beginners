@@ -1,7 +1,8 @@
-package Presi;
+package Demo;
 import java.util.Scanner;
-import Presidency.Employee.EmployeeDetails;
-import Presidency.Student.StudentDetails;
+
+import StudentEmployee.Employee.EmployeeDetails;
+import StudentEmployee.Student.StudentDetails;
 
 public class PackageDemo {
 	public static void main(String[] args) {
